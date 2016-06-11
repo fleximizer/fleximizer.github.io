@@ -1,5 +1,5 @@
-name: Arcana
-description: Arcana
+name: Fleximizer
+description: Fleximizer
 gems: [jekyll-paginate]
 paginate: 10
 baseurl: ''
