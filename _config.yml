@@ -1,0 +1,5 @@
+name: Arcana
+description: Arcana
+gems: [jekyll-paginate]
+paginate: 10
+baseurl: ''
